@@ -42,6 +42,23 @@ ${md.apply('console.log(markdown)',md.codeblock)}\n
 Here is a named link: ${md.link("https://www.google.com","search")}\n
 Here is some fenced text: \n${md.fence("Fenced text here for ya")}`
 ```
+Logging this string will result in this:
+~~~
+Hello There! __Bolded Text!__ 
+
+This will be ^(SUPERSCRIPTED!)
+
+Here is a fancy codeblock:    
+
+`console.log(markdown)`       
+
+Here is a named link: [search](https://www.google.com)
+
+Here is some fenced text:
+```
+Fenced text here for ya
+```
+~~~
 
 You can easily create tables by using the table function:
 
