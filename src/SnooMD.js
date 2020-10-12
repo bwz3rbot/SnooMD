@@ -18,7 +18,6 @@ class Markdown {
         return `^(${str})`;
     }
     link = function (url,t) {
-        console.log("Building a named link: ", {url,t})
         let u;
         url.includes('"') ?
             u = url.replace(/\"/g, '\\"') : u = url;
@@ -69,11 +68,9 @@ class Table {
             right: "-:",
             center: ":-:"
         }
-        console.log("Constructing table: ", this)
     }
 
     build = function () {
-        console.log("Building Table...")
         // Headers
         let h = "|";
         this.headers.forEach(header => {
@@ -87,12 +84,12 @@ class Table {
         s += `${this.a.left}|`;
         // Rows
         let r = "|";
-        this.rows.forEach(row => {
+        this.rows.forEach((row, index) => {
             let values = Object.values(row)
             for (const value of values) {
                 r += `${value}|`
             }
-            r += `\n`
+            index < this.rows.length - 1 ? r += `\n|` : r += `\n`;
         })
         return `${h}\n${s}\n${r}`;
     }
