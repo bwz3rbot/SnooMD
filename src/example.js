@@ -1,6 +1,6 @@
 const {
     Markdown
-} = require('../util/SnooMD');
+} = require('./SnooMD');
 const md = new Markdown();
 
 // Basic Markdown
