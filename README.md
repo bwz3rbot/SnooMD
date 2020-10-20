@@ -94,12 +94,12 @@ This will result in text formatted as such:
 See more information about reddit markdown formatting here:
 https://www.reddit.com/wiki/markdown#wiki_blockquotes
 
-# Example <a name="exmaple">
+# Example <a name="example">
     
     See what you can make with this useful tool!
 
 
-# Categorized User Tables Example: <a name = "wiki.users"></a> `(UPDATE 10-17-20)`
+# Categorized User Tables Example: <a name = "wiki.users"></a>
 [A](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/a) |
  [B](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/b) |
  [C](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/c) |
