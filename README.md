@@ -1,4 +1,4 @@
-# SnooMD
+# SnooMD Reddit Flavour Markdown Editor
 
 ## Table of Contents
 
