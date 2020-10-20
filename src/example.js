@@ -1,6 +1,4 @@
-const {
-    Markdown
-} = require('./SnooMD');
+const Markdown = require('./SnooMD');
 const md = new Markdown();
 
 // Basic Markdown
@@ -28,8 +26,14 @@ const row3 = {
     type: "Sale",
     comments: "https://www.reddit.com/r/s/g6j7nix?utm_source=share&utm_medium=web2x&context=3"
 }
-const t = md.table(["Rating", "Type", "Comments"], [row1,row2,row3])
+const t = md.table(["Rating", "Type", "Comments"], [row1, row2, row3])
 
 //  Links
 const link1 = md.link(row1.comments, "My link")
-const link2 = md.link(row2.comments,"Named link")
+const link2 = md.link(row2.comments, "Named link")
+
+
+console.log(MarkdownString);
+console.log(t);
+console.log(link1);
+console.log(link2);
