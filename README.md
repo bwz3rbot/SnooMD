@@ -20,7 +20,7 @@ Simply require the package, and use the functions to enhance your text posts.
 Download the single file SnooMD.js and put it in your project.\
 Require the package and create a new Markdown object.
 
-```
+```javascript
 const {
     Markdown
 } = require('SnooMD');
@@ -33,7 +33,7 @@ const md = new Markdown();
 
 How to format your markdown strings:
 
-```
+```javascript
 const MarkdownString =
 `Hello There! ${md.apply("Bolded Text!", md.bold)}\n
 This will be ${md.superscript("SUPERSCRIPTED!")}\n
@@ -55,14 +55,14 @@ Here is a fancy codeblock:
 Here is a named link: [search](https://www.google.com)
 
 Here is some fenced text:
-```
+```javascript
 Fenced text here for ya
 ```
 ~~~
 
 You can easily create tables by using the table function:
 
-```
+```javascript
 // Tables
 const row1 = {
     rating: "5",
@@ -82,7 +82,7 @@ const row3 = {
 const t = md.table(["Rating", "Type", "Comments"], [row1,row2,row3])
 ```
 This will result in text formatted as such:
-```
+```javascript
 |Rating|Type|Comments|
 |:-:|:-:|:-|
 |5|Trade|https://www.reddit.com/r/s/g6j7nix?utm_source=share&utm_medium=web2x&context=3|
