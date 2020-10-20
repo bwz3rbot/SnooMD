@@ -5,6 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
+- [Example](#example)
 
 ## About <a name = "about"></a>
 
@@ -92,3 +93,58 @@ This will result in text formatted as such:
 
 See more information about reddit markdown formatting here:
 https://www.reddit.com/wiki/markdown#wiki_blockquotes
+
+# Example <a name="exmaple">
+    
+    See what you can make with this useful tool!
+
+
+# Categorized User Tables Example: <a name = "wiki.users"></a> `(UPDATE 10-17-20)`
+[A](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/a) |
+ [B](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/b) |
+ [C](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/c) |
+ [D](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/d) |
+ [E](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/e) |
+ [F](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/f) |
+ [G](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/g) |
+ [H](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/h) |
+ [I](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/i) |
+ [J](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/j) |
+ [K](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/k) |
+ [L](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/l) |
+ [M](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/m) |
+ [N](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/n) |
+ [O](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/o) |
+ [P](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/p) |
+ [Q](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/q) |
+ [R](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/r) |
+ [__S__](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/s) |
+ [T](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/t) |
+ [U](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/u) |
+ [V](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/v) |
+ [W](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/w) |
+ [X](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/x) |
+ [Y](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/y) |
+ [Z](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/z) |
+ [etc](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/etc)
+
+-----
+
+## SnootyScraper
+
+★★★★☆(average score:4, total reviews:2)
+
+|Rating|Type|Comments|Permalink|
+|:-:|:-:|:-:|:-|
+|4|sale|pretty good sale!|/r/Bwz3rBot/comments/jaha01/new_follow_thread/g95r9yj/|
+|5|trade|What a great Trade!|/r/Bwz3rBot/comments/jaha01/new_follow_thread/g95r5wu/|
+
+
+## stickRollBot
+
+★★☆☆☆(average score:2, total reviews:2)
+
+|Rating|Type|Comments|Permalink|
+|:-:|:-:|:-:|:-|
+|1|sale|horrible sale!|/r/Bwz3rBot/comments/jaha01/new_follow_thread/g95r79a/|
+|4|sale|alright sale!|/r/Bwz3rBot/comments/jaha01/new_follow_thread/g95r8ln/|
