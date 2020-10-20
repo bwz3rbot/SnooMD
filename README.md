@@ -43,7 +43,7 @@ Here is a named link: ${md.link("https://www.google.com","search")}\n
 Here is some fenced text: \n${md.fence("Fenced text here for ya")}`
 ```
 Logging this string will result in this:
-~~~
+~~~javascript
 Hello There! __Bolded Text!__ 
 
 This will be ^(SUPERSCRIPTED!)
