@@ -98,8 +98,96 @@ https://www.reddit.com/wiki/markdown#wiki_blockquotes
     
     See what you can make with this useful tool!
 
+-----
 
-# Categorized User Tables Example: <a name = "wiki.users"></a>
+-----
+
+
+<h1>🌿Welcome to The Greenhouse</h1>
+
+<h1>User Directory</h1>
+
+Here is a directory of all users who have traded on r/Bwz3rBot along with links to the trade discussion threads.
+
+All users are stored alphabetically. Usernames beginning with special characters can be found within the ___etc___ section.
+
+
+
+[A](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/a) |
+ [B](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/b) |
+ [C](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/c) |
+ [D](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/d) |
+ [E](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/e) |
+ [F](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/f) |
+ [G](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/g) |
+ [H](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/h) |
+ [I](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/i) |
+ [J](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/j) |
+ [K](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/k) |
+ [L](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/l) |
+ [M](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/m) |
+ [N](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/n) |
+ [O](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/o) |
+ [P](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/p) |
+ [Q](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/q) |
+ [R](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/r) |
+ [S](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/s) |
+ [T](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/t) |
+ [U](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/u) |
+ [V](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/v) |
+ [W](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/w) |
+ [X](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/x) |
+ [Y](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/y) |
+ [Z](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/z) |
+ [etc](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/etc)
+
+-----
+
+<h1>How to use this bot?</h1>
+
+Users may submit reviews to this [bot command thread](/r/Bwz3rBot/comments/jaha01).
+
+Commands must be formated with a directive of `!rate`. The first command argument must be the name of the user to be updated. The second argument must be a rating number between 1 and 5 followed by the word stars. The next arg must be the type of interaction. Was it either (a. sale, b. trade, c. giveaway)? If no type is specified, it defaults to a sale. All arguments following interaction type will be converted to a string, and will go into the comments section of the review. Command MUST contain an interaction type of you wish to include a comment.
+
+`!rate u/Bwz3r 5 stars sale We had a great interaction! I'm rating u/Bwz3r 5 stars!`
+
+This command will be processed by the bot and will find u/Bwz3r within the database. If the user does not exist within the database, the user will be added to the list of reviewed users and will retain the rating given along with any comments, and a link to the command comment. Any future ratings received by this user will be added to their file and any changes made will be instantly updated in the user directory under their alphabetized page. Users scores will be averaged according to number of reviews / scores rounded down. Stars will be awarded each user according to their calculated average rating. Any questions or errors found while using the bot can be submitted to u/Bwz3r. Thank you for reading!
+
+-----
+<br><br><br>
+[A](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/a) |
+ [B](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/b) |
+ [C](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/c) |
+ [D](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/d) |
+ [E](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/e) |
+ [F](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/f) |
+ [G](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/g) |
+ [H](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/h) |
+ [I](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/i) |
+ [J](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/j) |
+ [K](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/k) |
+ [L](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/l) |
+ [M](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/m) |
+ [N](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/n) |
+ [O](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/o) |
+ [P](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/p) |
+ [Q](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/q) |
+ [R](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/r) |
+ [__S__](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/s) |
+ [T](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/t) |
+ [U](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/u) |
+ [V](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/v) |
+ [W](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/w) |
+ [X](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/x) |
+ [Y](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/y) |
+ [Z](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/z) |
+ [etc](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/etc)
+
+-----
+
+
+-----
+
 [A](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/a) |
  [B](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/b) |
  [C](https://www.reddit.com/r/Bwz3rBot/wiki/userdirectory/c) |
